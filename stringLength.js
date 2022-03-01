@@ -7,3 +7,4 @@ stringLength("h1");
 stringLength("");
 stringLength("Hello World");
 module.exports = stringLength;
+
